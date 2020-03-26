@@ -82,7 +82,7 @@ should fill in are clearly marked.
 Next, see the components that can be tested:
 
 ```
-$ rake acceptance:components
+$ rake acceptance:components 
 cli
 provider/virtualbox/basic
 ...
